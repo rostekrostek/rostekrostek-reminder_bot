@@ -1,2 +1,2 @@
-# rostekrostek-reminder_bot
-hehe)
+# reminder_bot
+reminder_bot
